@@ -213,8 +213,4 @@
         <label><!-- Deploy --></label>
         <name>copado__Deploy</name>
     </webLinks>
-    <webLinks>
-        <label><!-- Import_Template --></label>
-        <name>copado__Import_Template</name>
-    </webLinks>
 </CustomObjectTranslation>

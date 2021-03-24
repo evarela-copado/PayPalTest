@@ -26,6 +26,5 @@
     <tabs>standard-Forecasting3</tabs>
     <tabs>Project__c</tabs>
     <tabs>Invoice__c</tabs>
-    <tabs>Bicycle__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>
