@@ -3,10 +3,6 @@
     <label>Flow Active Version</label>
     <protected>false</protected>
     <values>
-        <field>copado__Active__c</field>
-        <value xsi:type="xsd:boolean">true</value>
-    </values>
-    <values>
         <field>copado__Base_Page__c</field>
         <value xsi:type="xsd:string">GitCommitMain</value>
     </values>
